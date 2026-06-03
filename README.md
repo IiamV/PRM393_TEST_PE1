@@ -53,3 +53,17 @@ favorites.
 - Offline fallback to saved favorites
 - Offline web refresh after first online load
 - Search, pull-to-refresh, and dark mode
+
+## Screenshots
+
+### Home
+
+![Home screen](screenshots/home.png)
+
+### Detail
+
+![Detail screen](screenshots/detail.png)
+
+### Offline
+
+![Offline mode](screenshots/offline.png)
